@@ -4,4 +4,8 @@
 
 -> Easy communication between teacher and parent directly by our product.
 
--> Student's performance are shown in the form of various graphs to easily understand the performance of student.
+-> Any important notifications like exam/class test related messages can be easily sent.
+
+-> Student's performance are shown in the form of various graphs so that parents can easily understand their ward'd report and also compare it with the other students of the class and evaluate where their ward stands in the class.
+
+-> 
