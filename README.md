@@ -1,5 +1,4 @@
 # HACKOUT 23
-# ETERNALS
 
 -> Showing student's report and academic performance .
 
